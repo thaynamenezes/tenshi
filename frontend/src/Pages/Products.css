@@ -1,0 +1,16 @@
+/* .products-wrap {
+    margin: 2rem;
+    height: 75vh;
+    margin-top: 5rem;
+} */
+
+.img-wrap {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 10px;
+    justify-items: center;
+}
+
+.img-wrap img {
+    width: 300px;
+}

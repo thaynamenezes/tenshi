@@ -1,0 +1,14 @@
+.footer-wrap {
+    display: flex;
+    justify-content: center;
+    background-image:linear-gradient(transparent, #f6a8a3);
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.small {
+    font-size: 0.8rem;
+}

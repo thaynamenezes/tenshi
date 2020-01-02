@@ -1,0 +1,27 @@
+.title-wrap {
+    display: flex;
+    justify-content: center;
+    align-self: center; 
+    background-image: linear-gradient(to right, #f6a8a3, #fee1e9 , #acdbca, #dbebc1);
+}
+
+.title {
+    display: inline;
+    font-family: 'Livvic', sans-serif;
+}
+
+.text-wrap {
+    margin: 2rem;
+    font-size: 1.1rem;
+}
+
+.quote {
+    margin: 3rem;
+    font-size: 1.8rem;
+    font-family: 'Livvic', sans-serif;
+    text-align: justify;
+}
+
+.author {
+    text-align: end;
+}

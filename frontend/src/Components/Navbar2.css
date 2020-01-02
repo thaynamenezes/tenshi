@@ -1,0 +1,35 @@
+.navbar-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-bottom: 2rem;
+    z-index: 136;
+    background-image: linear-gradient(to right, #f6a8a3, #fee1e9 , #acdbca, #dbebc1);
+    width: 100%;
+    top: 0;
+}
+
+.nav-align {
+    padding: .5rem 1.5rem 1rem;
+}
+
+.navbar {
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-align: center;  
+}
+
+a {
+    color: #615b51;
+    text-decoration: none;
+}
+
+.blue:hover {
+    color: #4ccf9f;
+    text-decoration: none;
+}
+
+.hotpink:hover {
+    color: #f59b94;
+    text-decoration: none;
+}

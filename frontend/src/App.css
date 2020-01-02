@@ -1,0 +1,10 @@
+/* font-family: 'Livvic', sans-serif;
+font-family: 'Source Sans Pro', sans-serif; */
+
+body {
+    width:100%;
+    height:100%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #3b3831;
+    background-color: #fdf7f6;
+}
