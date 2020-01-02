@@ -7,6 +7,4 @@ const router = express.Router();
 
 router.get('/', (req, res) => res.send('Slots route'));
 
-// kjsdjksf
-
 module.exports = router;
